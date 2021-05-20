@@ -7,7 +7,7 @@ Requirement: `1920x1080` resolution.
 https://github.com/semihV23/valorant-pick/releases/tag/0.0.1
 
 # Usage
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/87e6ZeBjPZE/0.jpg)](https://www.youtube.com/watch?v=87e6ZeBjPZE)
+https://www.youtube.com/watch?v=87e6ZeBjPZE
 
 # Keys
 Example: Of press `Numpad 1` key picks `Astra`.
