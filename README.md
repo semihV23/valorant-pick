@@ -3,6 +3,9 @@ Valorant agent picker. <br>
 Used librari: `pynput` <br>
 Requirement: `1920x1080` resolution.
 
+# Download
+https://github.com/semihV23/valorant-pick/releases/tag/0.0.1
+
 # Keys
 Example: Of press `Numpad 1` key picks `Astra`.
 
