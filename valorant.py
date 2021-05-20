@@ -1,9 +1,22 @@
+#https://github.com/semihV23
+#https://github.com/semihV23/valorant-pick
+#Discord: Semih#7226
+#Add attribution if you will use it in your video
+#Author: github.com/semihV23
+
 from pynput.mouse import Button, Controller
 import time
 import keyboard
 
 #print("Starts after 10 seconds...")
 #time.sleep(10)
+print("""
+https://github.com/semihV23
+https://github.com/semihV23/valorant-pick
+Discord: Semih#7226
+Add attribution if you will use it in your video
+Author: github.com/semihV23
+""")
 print("started")
 
 mouse = Controller()
