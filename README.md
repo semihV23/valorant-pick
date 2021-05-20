@@ -1,7 +1,8 @@
 # valorant-pick
 Valorant agent picker. <br>
 Used librari: `pynput` <br>
-Requirement: `1920x1080` resolution.
+Requirement: `1920x1080` resolution. <br>
+`Defender can detect this as a virus but this is not a virus.`
 
 # Download
 https://github.com/semihV23/valorant-pick/releases/tag/0.0.1
