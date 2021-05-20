@@ -22,6 +22,7 @@ F4 = 12th slot = Skye
 F5 = 13th slot = Sova
 F6 = 14th slot = Viper
 F7 = 15th slot = Yoru
+Q = Quit
 ```
 
 ![keys_edit2](https://user-images.githubusercontent.com/54319361/118937918-b7fbf180-b956-11eb-877f-eae56cdcfc39.png)
